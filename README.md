@@ -3,4 +3,4 @@ Intro and Basic Syntax - Lab / SoftUni Programing Fundamentals
 Creating conflict!
 
 Adding line with GitBash
-Trying if the conflict works withGitbash
+Trying if the conflict works withGitbash - Works :)
